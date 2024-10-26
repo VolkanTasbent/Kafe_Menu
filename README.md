@@ -1,5 +1,7 @@
 # volkan_kafe
 
+Herhangi bir kafeye göre uyarlanabilen geniş kapsamlı her çeşit ürün ve fiyatlandırmanın olduğu nargile kafe uygulaması
+
 A new Flutter project.
 
 ## Getting Started
